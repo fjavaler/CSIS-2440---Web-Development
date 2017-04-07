@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Make a Character for the Adventure</title>
-        <link href="CE03_CSS.css" rel="stylesheet" type="text/css"/>
+        <link href="CE03.css" rel="stylesheet" type="text/css"/>
     </head>
 
     <body>
